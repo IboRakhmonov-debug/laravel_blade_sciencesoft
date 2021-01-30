@@ -621,12 +621,8 @@
           </ol>
         </div>
       </div>
-      <div class="bg-gray-200 py-8 hidden lg:block">
-        <h1 class="text-3xl font-semibold mb-20 pt-10">
-          <p class="mb-4">EXPLORE OUR OFFERING</p>
-          <hr class="w-10 h-1 bg-pink-600">
-        </h1>
-        <div class="flex flex-wrap" id="tabs-id">
+      <div class="py-8 hidden lg:block">
+        <div class="flex flex-wrap pt-10" id="tabs-id">
           <div class="flex md:flex-col lg:flex-row shadow-xl bg-white">
             <ul class="flex list-none flex-wrap -mt-10 flex-col bg-blue-900 lg:w-2/5 md:w-full shadow-2xl py-10">
               <li class=" -mr-6 last:mr-0 flex-auto pl-10 cursor-pointer hover:underline z-10">
